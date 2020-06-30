@@ -1,0 +1,49 @@
+#link {
+	border: 10px solid transparent; 
+	font-size: 22px;
+	padding: 20px;
+}
+
+#nani {
+	text-align: center;
+}
+.registro {
+	font: 20px Gabriola, sans-serif;
+	border: solid #E25822;
+	background-color: #E25822;
+	margin: 30px 410px 0px 410px;
+}
+
+#botao {
+	padding: 10px;
+}
+
+input[type=text] {
+	width: 500px;
+}
+input[type=password] {
+	width: 500px;
+}
+
+a {
+	background: #E25822;
+}
+
+a:link{
+	color: white;
+}
+
+ a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline; 
+	color: black;
+	background: #FF8C00;
+}
+
+a:active {
+	text-decoration: none
+}
